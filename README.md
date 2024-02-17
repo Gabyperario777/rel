@@ -1,3 +1,3 @@
 Relógio digital utilizando Pyton.
 
-Link no replit: https://replit.com/@gabiteixeiraper/mainpy
+Link do projeto: https://replit.com/@gabiteixeiraper/mainpy
